@@ -219,3 +219,25 @@ section{
     align-self: auto;
     flex-basis: 80%;
 }
+
+/* **************************
+    Mes Projets
+************************** */
+
+.MEP_projets {
+    display: flex;
+    flex-flow: row wrap;
+    justify-content: center;
+    width: 80%;   
+}
+
+.projets {
+    flex-basis: 40%;
+    margin-right: 5%;
+    margin-bottom: 1%;
+    box-shadow: 0px 0px 10px #777;
+}
+
+.liste_projets {
+    list-style-type: none;
+}

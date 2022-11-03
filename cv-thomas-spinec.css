@@ -47,15 +47,10 @@ p{
     font-size: 1.2em;
     /* color: rgb(0, 0, 0); */
 }
-a{
-    color: rgb(44, 118, 255);
-    font-weight: bold;
-    text-decoration: underline;
-}
 
 a {
     position: relative;
-    color: #1a84c2;
+    color: #0271b1;
     text-decoration: none;
     letter-spacing: 0.5px;
     padding: 0px 10px;
@@ -73,8 +68,8 @@ a:after {
 }
 
 a:hover {
-    color: #2274a5;
-    font-weight: bold;
+    color: #036096;
+    font-weight: bolder;
 }
 
 a:hover:after {
